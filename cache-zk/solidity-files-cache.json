@@ -8,12 +8,12 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
           "optimizer": {
             "enabled": true,
             "mode": "3",
             "runs": 200
           },
+          "evmVersion": "london",
           "outputSelection": {
             "*": {
               "*": [
